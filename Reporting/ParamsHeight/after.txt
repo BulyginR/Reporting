@@ -1,0 +1,423 @@
++		pan	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.TableLayoutPanel
+-		pan1	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Panel
+-		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.ScrollableControl {System.Windows.Forms.Panel}
+-		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.Panel}
++		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.ComponentModel.Component {System.Windows.Forms.Panel}
++		AccessibilityObject	{ControlAccessibleObject: Owner = System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.AccessibleObject {System.Windows.Forms.Control.ControlAccessibleObject}
+		AccessibleDefaultActionDescription	null	string
+		AccessibleDescription	null	string
+		AccessibleName	"Parameters"	string
+		AccessibleRole	Default	System.Windows.Forms.AccessibleRole
++		ActiveXAmbientBackColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
++		ActiveXAmbientFont	null	System.Drawing.Font
++		ActiveXAmbientForeColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
+		ActiveXEventsFrozen	false	bool
++		ActiveXHWNDParent	0	System.IntPtr
++		ActiveXInstance	{System.Windows.Forms.Control.ActiveXImpl}	System.Windows.Forms.Control.ActiveXImpl
+		AllowDrop	false	bool
+		AmbientPropertiesService	null	System.Windows.Forms.AmbientProperties
+		Anchor	Top | Left	System.Windows.Forms.AnchorStyles
++		AutoScrollOffset	{X = 0 Y = 0}	System.Drawing.Point
+		AutoSize	false	bool
++		BackColor	"{Name=ScrollBar, ARGB=(255, 200, 200, 200)}"	System.Drawing.Color
++		BackColorBrush	17825889	System.IntPtr
+		BackgroundImage	null	System.Drawing.Image
+		BackgroundImageLayout	Tile	System.Windows.Forms.ImageLayout
+		BecomingActiveControl	false	bool
++		BindingContext	{System.Windows.Forms.BindingContext}	System.Windows.Forms.BindingContext
++		BindingContextInternal	{System.Windows.Forms.BindingContext}	System.Windows.Forms.BindingContext
+		Bottom	200	int
++		Bounds	{X = 0 Y = 0 Width = 1920 Height = 200}	System.Drawing.Rectangle
++		BufferContext	{System.Drawing.BufferedGraphicsContext}	System.Drawing.BufferedGraphicsContext
+		CachedImeMode	NoControl	System.Windows.Forms.ImeMode
++		cachedLayoutEventArgs	{System.Windows.Forms.LayoutEventArgs}	System.Windows.Forms.LayoutEventArgs
+		CacheTextInternal	false	bool
+		CanAccessProperties	true	bool
+		CanEnableIme	true	bool
+		CanFocus	true	bool
+		CanRaiseEvents	true	bool
+		CanSelect	false	bool
+		Capture	false	bool
+		CaptureInternal	false	bool
+		CausesValidation	true	bool
+		clientHeight	200	int
++		ClientRectangle	{X = 0 Y = 0 Width = 1920 Height = 200}	System.Drawing.Rectangle
++		ClientSize	{Width = 1920 Height = 200}	System.Drawing.Size
+		clientWidth	1920	int
+		CompanyName	"Microsoft Corporation"	string
+		ContainsFocus	false	bool
+		ContextMenu	null	System.Windows.Forms.ContextMenu
+		ContextMenuStrip	null	System.Windows.Forms.ContextMenuStrip
++		Controls	{System.Windows.Forms.Control.ControlCollection}	System.Windows.Forms.Control.ControlCollection
+		controlStyle	ContainerControl | UserPaint | StandardClick | SupportsTransparentBackColor | StandardDoubleClick | UseTextForAccessibility	System.Windows.Forms.ControlStyles
+		Created	true	bool
++		createParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 0, 1920, 200}}}	System.Windows.Forms.CreateParams
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 0, 1920, 200}}}	System.Windows.Forms.CreateParams
+		CreateThreadId	10984	int
+		CurrentImeContextMode	Inherit	System.Windows.Forms.ImeMode
++		Cursor	{[Cursor: Default]}	System.Windows.Forms.Cursor
++		DataBindings	{System.Windows.Forms.ControlBindingsCollection}	System.Windows.Forms.ControlBindingsCollection
++		DefaultCursor	{[Cursor: Default]}	System.Windows.Forms.Cursor
+		DefaultImeMode	Inherit	System.Windows.Forms.ImeMode
++		DefaultMargin	{Left=3,Top=3,Right=3,Bottom=3}	System.Windows.Forms.Padding
++		DefaultMaximumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		DefaultMinimumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		DefaultPadding	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
+		DefaultRightToLeft	No	System.Windows.Forms.RightToLeft
++		DefaultSize	{Width = 200 Height = 100}	System.Drawing.Size
++		DisabledColor	"{Name=ScrollBar, ARGB=(255, 200, 200, 200)}"	System.Drawing.Color
+		DisableImeModeChangedCount	0	int
++		DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 200}	System.Drawing.Rectangle
+		Disposing	false	bool
+		Dock	Fill	System.Windows.Forms.DockStyle
+		DoubleBuffered	false	bool
+		DoubleBufferingEnabled	false	bool
+		Enabled	true	bool
+		Focused	false	bool
++		Font	{Name = "Microsoft Sans Serif" Size=8.25}	System.Drawing.Font
++		FontHandle	-401985769	System.IntPtr
+		FontHeight	13	int
++		ForeColor	"{Name=ControlText, ARGB=(255, 0, 0, 0)}"	System.Drawing.Color
++		Handle	6555274	System.IntPtr
++		HandleInternal	6555274	System.IntPtr
+		HasChildren	true	bool
+		HasMenu	false	bool
+		height	200	int
+		Height	200	int
+		HostedInWin32DialogManager	false	bool
+		ImeMode	NoControl	System.Windows.Forms.ImeMode
+		ImeModeBase	NoControl	System.Windows.Forms.ImeMode
+		ImeSupported	true	bool
+		ImeWmCharsToIgnore	0	int
++		InternalHandle	6555274	System.IntPtr
+		InvokeRequired	false	bool
+		IsAccessible	false	bool
+		IsActiveX	true	bool
+		IsContainerControl	false	bool
+		IsDisposed	false	bool
+		IsHandleCreated	true	bool
+		IsIEParent	false	bool
+		IsLayoutSuspended	false	bool
+		IsMirrored	false	bool
+		IsMnemonicsListenerAxSourced	false	bool
+		IsWindowObscured	true	bool
+		LastCanEnableIme	true	bool
++		LayoutEngine	{System.Windows.Forms.Layout.DefaultLayout}	System.Windows.Forms.Layout.LayoutEngine {System.Windows.Forms.Layout.DefaultLayout}
+		layoutSuspendCount	0	byte
+		Left	0	int
++		Location	{X = 0 Y = 0}	System.Drawing.Point
++		Margin	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
++		MaximumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		MinimumSize	{Width = 0 Height = 0}	System.Drawing.Size
+		Name	"panel1"	string
++		NcAccessibilityObject	{ControlAccessibleObject: Owner = System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.AccessibleObject {System.Windows.Forms.Control.ControlAccessibleObject}
++		Padding	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
++		parent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		Parent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		ParentContainerControl	{Microsoft.Reporting.WinForms.RVSplitContainer}	System.Windows.Forms.ContainerControl {Microsoft.Reporting.WinForms.RVSplitContainer}
++		ParentInternal	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		PreferredSize	{Width = 0 Height = 0}	System.Drawing.Size
+		ProductName	"Microsoft® .NET Framework"	string
+		ProductVersion	"4.0.30319.1032"	string
++		Properties	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
++		propertyStore	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
++		RawBackColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
+		RecreatingHandle	false	bool
++		reflectParent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		ReflectParent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
+		Region	null	System.Drawing.Region
+		RenderRightToLeft	true	bool
+		RenderTransparencyWithVisualStyles	false	bool
+		RenderTransparent	false	bool
+		RequiredScaling	X | Y | Width | Height	System.Windows.Forms.BoundsSpecified
+		requiredScaling	31	byte
+		RequiredScalingEnabled	true	bool
+		ResizeRedraw	false	bool
+		Right	1920	int
+		RightToLeft	No	System.Windows.Forms.RightToLeft
+		ScaleChildren	true	bool
+		ShouldAutoValidate	true	bool
+		ShowFocusCues	false	bool
+		ShowKeyboardCues	false	bool
+		ShowParams	5	int
+		Site	null	System.ComponentModel.ISite
++		Size	{Width = 1920 Height = 200}	System.Drawing.Size
+		state	16908295	int
+		state2	3144	int
+		SupportsUseCompatibleTextRendering	false	bool
++		System.Windows.Forms.Layout.IArrangedElement.Children	{System.Windows.Forms.Control.ControlCollection}	System.Windows.Forms.Layout.ArrangedElementCollection {System.Windows.Forms.Control.ControlCollection}
++		System.Windows.Forms.Layout.IArrangedElement.Container	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Layout.IArrangedElement {System.Windows.Forms.TableLayoutPanel}
+		System.Windows.Forms.Layout.IArrangedElement.ParticipatesInLayout	true	bool
++		System.Windows.Forms.Layout.IArrangedElement.Properties	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
+		tabIndex	0	int
+		TabIndex	0	int
+		TabStop	false	bool
+		TabStopInternal	false	bool
+		Tag	null	object
+		text	null	string
+		Text	""	string
++		threadCallbackList	null	System.Collections.Queue
+		Top	0	int
++		TopLevelControl	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
++		TopLevelControlInternal	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
++		TopMostParent	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
+		trackMouseEvent	null	System.Windows.Forms.NativeMethods.TRACKMOUSEEVENT
+		uiCuesState	17	int
+		updateCount	0	short
+		UseCompatibleTextRenderingInt	false	bool
+		UseWaitCursor	false	bool
+		ValidationCancelled	false	bool
++		VersionInfo	{System.Windows.Forms.Control.ControlVersionInfo}	System.Windows.Forms.Control.ControlVersionInfo
+		Visible	true	bool
+		width	1920	int
+		Width	1920	int
++		window	{System.Windows.Forms.Control.ControlNativeWindow}	System.Windows.Forms.Control.ControlNativeWindow
+		WindowExStyle	65536	int
+		WindowStyle	1442840576	int
++		WindowTarget	{System.Windows.Forms.Control.ActiveXImpl}	System.Windows.Forms.IWindowTarget {System.Windows.Forms.Control.ActiveXImpl}
+		WindowText	""	string
+		x	0	int
+		y	0	int
++		Static members		
+		AutoScroll	false	bool
++		AutoScrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
++		AutoScrollMinSize	{Width = 0 Height = 0}	System.Drawing.Size
++		AutoScrollPosition	{X = 0 Y = 0}	System.Drawing.Point
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 0, 1920, 200}}}	System.Windows.Forms.CreateParams
++		displayRect	{X = 0 Y = 0 Width = 107 Height = 441}	System.Drawing.Rectangle
++		DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 200}	System.Drawing.Rectangle
++		DockPadding	{}	System.Windows.Forms.ScrollableControl.DockPaddingEdges
++		dockPadding	{}	System.Windows.Forms.ScrollableControl.DockPaddingEdges
++		HorizontalScroll	{System.Windows.Forms.HScrollProperties}	System.Windows.Forms.HScrollProperties
++		horizontalScroll	{System.Windows.Forms.HScrollProperties}	System.Windows.Forms.HScrollProperties
+		HScroll	false	bool
++		requestedScrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
+		resetRTLHScrollValue	false	bool
++		scrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
++		scrollPosition	{X = 0 Y = 0}	System.Drawing.Point
+		scrollState	0	int
++		System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 200}	System.Drawing.Rectangle
++		userAutoScrollMinSize	{Width = 0 Height = 0}	System.Drawing.Size
++		VerticalScroll	{System.Windows.Forms.VScrollProperties}	System.Windows.Forms.VScrollProperties
++		verticalScroll	{System.Windows.Forms.VScrollProperties}	System.Windows.Forms.VScrollProperties
+		VScroll	false	bool
++		Static members		
+		AutoSize	false	bool
+		AutoSizeMode	GrowOnly	System.Windows.Forms.AutoSizeMode
+		BorderStyle	None	System.Windows.Forms.BorderStyle
+		borderStyle	None	System.Windows.Forms.BorderStyle
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 0, 1920, 200}}}	System.Windows.Forms.CreateParams
++		DefaultSize	{Width = 200 Height = 100}	System.Drawing.Size
+		TabStop	false	bool
+		Text	""	string
+-		pan2	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Panel
+-		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.ScrollableControl {System.Windows.Forms.Panel}
+-		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.Panel}
++		base	{System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.ComponentModel.Component {System.Windows.Forms.Panel}
++		AccessibilityObject	{ControlAccessibleObject: Owner = System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.AccessibleObject {System.Windows.Forms.Control.ControlAccessibleObject}
+		AccessibleDefaultActionDescription	null	string
+		AccessibleDescription	null	string
+		AccessibleName	"Report Container"	string
+		AccessibleRole	Default	System.Windows.Forms.AccessibleRole
++		ActiveXAmbientBackColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
++		ActiveXAmbientFont	null	System.Drawing.Font
++		ActiveXAmbientForeColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
+		ActiveXEventsFrozen	false	bool
++		ActiveXHWNDParent	0	System.IntPtr
++		ActiveXInstance	{System.Windows.Forms.Control.ActiveXImpl}	System.Windows.Forms.Control.ActiveXImpl
+		AllowDrop	false	bool
+		AmbientPropertiesService	null	System.Windows.Forms.AmbientProperties
+		Anchor	Top | Left	System.Windows.Forms.AnchorStyles
++		AutoScrollOffset	{X = 0 Y = 0}	System.Drawing.Point
+		AutoSize	false	bool
++		BackColor	"{Name=ScrollBar, ARGB=(255, 200, 200, 200)}"	System.Drawing.Color
++		BackColorBrush	17825889	System.IntPtr
+		BackgroundImage	null	System.Drawing.Image
+		BackgroundImageLayout	Tile	System.Windows.Forms.ImageLayout
+		BecomingActiveControl	false	bool
++		BindingContext	{System.Windows.Forms.BindingContext}	System.Windows.Forms.BindingContext
++		BindingContextInternal	{System.Windows.Forms.BindingContext}	System.Windows.Forms.BindingContext
+		Bottom	991	int
++		Bounds	{X = 0 Y = 208 Width = 1920 Height = 783}	System.Drawing.Rectangle
++		BufferContext	{System.Drawing.BufferedGraphicsContext}	System.Drawing.BufferedGraphicsContext
+		CachedImeMode	NoControl	System.Windows.Forms.ImeMode
++		cachedLayoutEventArgs	{System.Windows.Forms.LayoutEventArgs}	System.Windows.Forms.LayoutEventArgs
+		CacheTextInternal	false	bool
+		CanAccessProperties	true	bool
+		CanEnableIme	true	bool
+		CanFocus	true	bool
+		CanRaiseEvents	true	bool
+		CanSelect	false	bool
+		Capture	false	bool
+		CaptureInternal	false	bool
+		CausesValidation	true	bool
+		clientHeight	783	int
++		ClientRectangle	{X = 0 Y = 0 Width = 1920 Height = 783}	System.Drawing.Rectangle
++		ClientSize	{Width = 1920 Height = 783}	System.Drawing.Size
+		clientWidth	1920	int
+		CompanyName	"Microsoft Corporation"	string
+		ContainsFocus	false	bool
+		ContextMenu	null	System.Windows.Forms.ContextMenu
+		ContextMenuStrip	null	System.Windows.Forms.ContextMenuStrip
++		Controls	{System.Windows.Forms.Control.ControlCollection}	System.Windows.Forms.Control.ControlCollection
+		controlStyle	ContainerControl | UserPaint | StandardClick | SupportsTransparentBackColor | StandardDoubleClick | UseTextForAccessibility	System.Windows.Forms.ControlStyles
+		Created	true	bool
++		createParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 208, 1920, 783}}}	System.Windows.Forms.CreateParams
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 208, 1920, 783}}}	System.Windows.Forms.CreateParams
+		CreateThreadId	10984	int
+		CurrentImeContextMode	Inherit	System.Windows.Forms.ImeMode
++		Cursor	{[Cursor: Default]}	System.Windows.Forms.Cursor
++		DataBindings	{System.Windows.Forms.ControlBindingsCollection}	System.Windows.Forms.ControlBindingsCollection
++		DefaultCursor	{[Cursor: Default]}	System.Windows.Forms.Cursor
+		DefaultImeMode	Inherit	System.Windows.Forms.ImeMode
++		DefaultMargin	{Left=3,Top=3,Right=3,Bottom=3}	System.Windows.Forms.Padding
++		DefaultMaximumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		DefaultMinimumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		DefaultPadding	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
+		DefaultRightToLeft	No	System.Windows.Forms.RightToLeft
++		DefaultSize	{Width = 200 Height = 100}	System.Drawing.Size
++		DisabledColor	"{Name=ScrollBar, ARGB=(255, 200, 200, 200)}"	System.Drawing.Color
+		DisableImeModeChangedCount	0	int
++		DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 783}	System.Drawing.Rectangle
+		Disposing	false	bool
+		Dock	Fill	System.Windows.Forms.DockStyle
+		DoubleBuffered	false	bool
+		DoubleBufferingEnabled	false	bool
+		Enabled	true	bool
+		Focused	false	bool
++		Font	{Name = "Microsoft Sans Serif" Size=8.25}	System.Drawing.Font
++		FontHandle	-401985769	System.IntPtr
+		FontHeight	13	int
++		ForeColor	"{Name=ControlText, ARGB=(255, 0, 0, 0)}"	System.Drawing.Color
++		Handle	17108370	System.IntPtr
++		HandleInternal	17108370	System.IntPtr
+		HasChildren	true	bool
+		HasMenu	false	bool
+		height	783	int
+		Height	783	int
+		HostedInWin32DialogManager	false	bool
+		ImeMode	NoControl	System.Windows.Forms.ImeMode
+		ImeModeBase	NoControl	System.Windows.Forms.ImeMode
+		ImeSupported	true	bool
+		ImeWmCharsToIgnore	0	int
++		InternalHandle	17108370	System.IntPtr
+		InvokeRequired	false	bool
+		IsAccessible	false	bool
+		IsActiveX	true	bool
+		IsContainerControl	false	bool
+		IsDisposed	false	bool
+		IsHandleCreated	true	bool
+		IsIEParent	false	bool
+		IsLayoutSuspended	false	bool
+		IsMirrored	false	bool
+		IsMnemonicsListenerAxSourced	false	bool
+		IsWindowObscured	true	bool
+		LastCanEnableIme	true	bool
++		LayoutEngine	{System.Windows.Forms.Layout.DefaultLayout}	System.Windows.Forms.Layout.LayoutEngine {System.Windows.Forms.Layout.DefaultLayout}
+		layoutSuspendCount	0	byte
+		Left	0	int
++		Location	{X = 0 Y = 208}	System.Drawing.Point
++		Margin	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
++		MaximumSize	{Width = 0 Height = 0}	System.Drawing.Size
++		MinimumSize	{Width = 0 Height = 0}	System.Drawing.Size
+		Name	"panel2"	string
++		NcAccessibilityObject	{ControlAccessibleObject: Owner = System.Windows.Forms.Panel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.AccessibleObject {System.Windows.Forms.Control.ControlAccessibleObject}
++		Padding	{Left=0,Top=0,Right=0,Bottom=0}	System.Windows.Forms.Padding
++		parent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		Parent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		ParentContainerControl	{Microsoft.Reporting.WinForms.RVSplitContainer}	System.Windows.Forms.ContainerControl {Microsoft.Reporting.WinForms.RVSplitContainer}
++		ParentInternal	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		PreferredSize	{Width = 0 Height = 25}	System.Drawing.Size
+		ProductName	"Microsoft® .NET Framework"	string
+		ProductVersion	"4.0.30319.1032"	string
++		Properties	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
++		propertyStore	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
++		RawBackColor	"{Name=0, ARGB=(0, 0, 0, 0)}"	System.Drawing.Color
+		RecreatingHandle	false	bool
++		reflectParent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
++		ReflectParent	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Control {System.Windows.Forms.TableLayoutPanel}
+		Region	null	System.Drawing.Region
+		RenderRightToLeft	true	bool
+		RenderTransparencyWithVisualStyles	false	bool
+		RenderTransparent	false	bool
+		RequiredScaling	X | Y | Width | Height	System.Windows.Forms.BoundsSpecified
+		requiredScaling	31	byte
+		RequiredScalingEnabled	true	bool
+		ResizeRedraw	false	bool
+		Right	1920	int
+		RightToLeft	No	System.Windows.Forms.RightToLeft
+		ScaleChildren	true	bool
+		ShouldAutoValidate	true	bool
+		ShowFocusCues	false	bool
+		ShowKeyboardCues	false	bool
+		ShowParams	5	int
+		Site	null	System.ComponentModel.ISite
++		Size	{Width = 1920 Height = 783}	System.Drawing.Size
+		state	16908295	int
+		state2	3144	int
+		SupportsUseCompatibleTextRendering	false	bool
++		System.Windows.Forms.Layout.IArrangedElement.Children	{System.Windows.Forms.Control.ControlCollection}	System.Windows.Forms.Layout.ArrangedElementCollection {System.Windows.Forms.Control.ControlCollection}
++		System.Windows.Forms.Layout.IArrangedElement.Container	{System.Windows.Forms.TableLayoutPanel, BorderStyle: System.Windows.Forms.BorderStyle.None}	System.Windows.Forms.Layout.IArrangedElement {System.Windows.Forms.TableLayoutPanel}
+		System.Windows.Forms.Layout.IArrangedElement.ParticipatesInLayout	true	bool
++		System.Windows.Forms.Layout.IArrangedElement.Properties	{System.Windows.Forms.PropertyStore}	System.Windows.Forms.PropertyStore
+		tabIndex	1	int
+		TabIndex	1	int
+		TabStop	false	bool
+		TabStopInternal	false	bool
+		Tag	null	object
+		text	null	string
+		Text	""	string
++		threadCallbackList	null	System.Collections.Queue
+		Top	208	int
++		TopLevelControl	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
++		TopLevelControlInternal	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
++		TopMostParent	{Reporting.frmReportBuilder, Text: Предпросмотр отчета [Массовое изменение SKU]}	System.Windows.Forms.Control {Reporting.frmReportBuilder}
+		trackMouseEvent	null	System.Windows.Forms.NativeMethods.TRACKMOUSEEVENT
+		uiCuesState	17	int
+		updateCount	0	short
+		UseCompatibleTextRenderingInt	false	bool
+		UseWaitCursor	false	bool
+		ValidationCancelled	false	bool
++		VersionInfo	{System.Windows.Forms.Control.ControlVersionInfo}	System.Windows.Forms.Control.ControlVersionInfo
+		Visible	true	bool
+		width	1920	int
+		Width	1920	int
++		window	{System.Windows.Forms.Control.ControlNativeWindow}	System.Windows.Forms.Control.ControlNativeWindow
+		WindowExStyle	65536	int
+		WindowStyle	1442840576	int
++		WindowTarget	{System.Windows.Forms.Control.ActiveXImpl}	System.Windows.Forms.IWindowTarget {System.Windows.Forms.Control.ActiveXImpl}
+		WindowText	""	string
+		x	0	int
+		y	208	int
++		Static members		
+		AutoScroll	false	bool
++		AutoScrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
++		AutoScrollMinSize	{Width = 0 Height = 0}	System.Drawing.Size
++		AutoScrollPosition	{X = 0 Y = 0}	System.Drawing.Point
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 208, 1920, 783}}}	System.Windows.Forms.CreateParams
++		displayRect	{X = 0 Y = 0 Width = 535 Height = 441}	System.Drawing.Rectangle
++		DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 783}	System.Drawing.Rectangle
++		DockPadding	{}	System.Windows.Forms.ScrollableControl.DockPaddingEdges
++		dockPadding	{}	System.Windows.Forms.ScrollableControl.DockPaddingEdges
++		HorizontalScroll	{System.Windows.Forms.HScrollProperties}	System.Windows.Forms.HScrollProperties
++		horizontalScroll	{System.Windows.Forms.HScrollProperties}	System.Windows.Forms.HScrollProperties
+		HScroll	false	bool
++		requestedScrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
+		resetRTLHScrollValue	false	bool
++		scrollMargin	{Width = 0 Height = 0}	System.Drawing.Size
++		scrollPosition	{X = 0 Y = 0}	System.Drawing.Point
+		scrollState	0	int
++		System.Windows.Forms.Layout.IArrangedElement.DisplayRectangle	{X = 0 Y = 0 Width = 1920 Height = 783}	System.Drawing.Rectangle
++		userAutoScrollMinSize	{Width = 0 Height = 0}	System.Drawing.Size
++		VerticalScroll	{System.Windows.Forms.VScrollProperties}	System.Windows.Forms.VScrollProperties
++		verticalScroll	{System.Windows.Forms.VScrollProperties}	System.Windows.Forms.VScrollProperties
+		VScroll	false	bool
++		Static members		
+		AutoSize	false	bool
+		AutoSizeMode	GrowOnly	System.Windows.Forms.AutoSizeMode
+		BorderStyle	None	System.Windows.Forms.BorderStyle
+		borderStyle	None	System.Windows.Forms.BorderStyle
++		CreateParams	{CreateParams {'', '', 0x56000000, 0x10000, {0, 208, 1920, 783}}}	System.Windows.Forms.CreateParams
++		DefaultSize	{Width = 200 Height = 100}	System.Drawing.Size
+		TabStop	false	bool
+		Text	""	string

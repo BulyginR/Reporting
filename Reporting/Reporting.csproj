@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{194B7D90-C854-4077-ABD4-C9563E6FFF2F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Reporting</RootNamespace>
+    <AssemblyName>GhostReporting</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RegisterForComInterop>true</RegisterForComInterop>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>true</RegisterForComInterop>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CustomMarshalers" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="RFPrintExecPeriod.cs" />
+    <Compile Include="ExportFormatInfo.cs" />
+    <Compile Include="ExtensionMethods.cs" />
+    <Compile Include="frmDebugLoger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDebugLoger.Designer.cs">
+      <DependentUpon>frmDebugLoger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmForcedCopy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmForcedCopy.Designer.cs">
+      <DependentUpon>frmForcedCopy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintoutDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintoutDialog.Designer.cs">
+      <DependentUpon>frmPrintoutDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportBuilder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportBuilder.Designer.cs">
+      <DependentUpon>frmReportBuilder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportItemProperties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportItemProperties.Designer.cs">
+      <DependentUpon>frmReportItemProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportsManager.Designer.cs">
+      <DependentUpon>frmReportsManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportsPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportsPreview.Designer.cs">
+      <DependentUpon>frmReportsPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmShowMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShowMessage.Designer.cs">
+      <DependentUpon>frmShowMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWaiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWaiting.Designer.cs">
+      <DependentUpon>frmWaiting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalObjects.cs" />
+    <Compile Include="INI.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="MessageBox.cs" />
+    <Compile Include="PrinterSettingsDialog.cs" />
+    <Compile Include="RFPrintout.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ComClsReporting.cs" />
+    <Compile Include="ReportApplication.cs" />
+    <Compile Include="ReportItem.cs" />
+    <Compile Include="ReportItemLogInfo.cs" />
+    <Compile Include="RFPrintDocument.cs" />
+    <Compile Include="RussianReportViewerMessages.cs" />
+    <Compile Include="SoftwareExport.cs" />
+    <Compile Include="SoftwarePrintReport.cs" />
+    <Compile Include="TabHeaderItem.cs" />
+    <Compile Include="TabControlSE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TabHeaderObject.cs" />
+    <Compile Include="testGrid.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmDebugLoger.resx">
+      <DependentUpon>frmDebugLoger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmForcedCopy.resx">
+      <DependentUpon>frmForcedCopy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintoutDialog.resx">
+      <DependentUpon>frmPrintoutDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportBuilder.resx">
+      <DependentUpon>frmReportBuilder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportItemProperties.resx">
+      <DependentUpon>frmReportItemProperties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportsManager.resx">
+      <DependentUpon>frmReportsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportsPreview.resx">
+      <DependentUpon>frmReportsPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShowMessage.resx">
+      <DependentUpon>frmShowMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWaiting.resx">
+      <DependentUpon>frmWaiting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\waiting.png" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Заполняющееся кольцо.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Тонкое заполняюееся кольцо.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\loadinfo.net.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\ajax-loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\load.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\241.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\89.GIF" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

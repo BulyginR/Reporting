@@ -1,0 +1,30 @@
+[2015.08.04 22:19:56.7270]: Printer 'WH1_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.16.186' installed on port 'IP_192.168.16.186'
+[2015.08.04 22:20:16.3060]: Printer 'WH1_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_3'
+[2015.08.04 22:20:25.1120]: Printer 'WH1_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_4'
+[2015.08.04 22:20:27.8560]: Printer 'WH2_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.16.186' installed on port 'IP_192.168.16.186_1'
+[2015.08.04 22:20:37.2240]: Printer 'WH2_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_5'
+[2015.08.04 22:20:46.4790]: Printer 'WH2_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_6'
+[2015.08.04 22:20:48.6690]: Printer 'WH3_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.16.186' installed on port 'IP_192.168.16.186_2'
+[2015.08.04 22:20:58.5870]: Printer 'WH3_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_7'
+[2015.08.04 22:21:09.2660]: Printer 'WH3_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_8'
+[2015.08.05 15:27:07.6824]: printer 'WH1_TST_ZT230' deleted
+[2015.08.05 15:27:08.6394]: printer 'WH2_TST_ZT230' deleted
+[2015.08.05 15:27:09.0844]: printer 'WH3_TST_ZT230' deleted
+[2015.08.05 15:27:30.6164]: Printer 'WH1_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56'
+[2015.08.05 15:27:30.9274]: Printer 'WH1_TST_HP400-01' already exist in system
+[2015.08.05 15:27:31.1344]: Printer 'WH1_TST_HP400-02' already exist in system
+[2015.08.05 15:27:33.7524]: Printer 'WH2_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56_1'
+[2015.08.05 15:27:33.9864]: Printer 'WH2_TST_HP400-01' already exist in system
+[2015.08.05 15:27:34.2194]: Printer 'WH2_TST_HP400-02' already exist in system
+[2015.08.05 15:27:38.7474]: Printer 'WH3_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56_2'
+[2015.08.05 15:27:39.0534]: Printer 'WH3_TST_HP400-01' already exist in system
+[2015.08.05 15:27:39.3074]: Printer 'WH3_TST_HP400-02' already exist in system
+[2015.08.31 08:56:41.5893]: Printer 'WH1_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56'
+[2015.08.31 08:57:06.5588]: Printer 'WH1_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_3'
+[2015.08.31 08:57:20.3922]: Printer 'WH1_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_4'
+[2015.08.31 08:57:22.5634]: Printer 'WH2_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56_1'
+[2015.08.31 08:57:35.6867]: Printer 'WH2_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_5'
+[2015.08.31 08:57:45.4957]: Printer 'WH2_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_6'
+[2015.08.31 08:57:47.7239]: Printer 'WH3_TST_ZT230' with driver 'ZDesigner ZT230-300dpi ZPL', ip = '192.168.19.56' installed on port 'IP_192.168.19.56_2'
+[2015.08.31 08:57:58.0169]: Printer 'WH3_TST_HP400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_7'
+[2015.08.31 08:58:07.5739]: Printer 'WH3_TST_HP400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_8'

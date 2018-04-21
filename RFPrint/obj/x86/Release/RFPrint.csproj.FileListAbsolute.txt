@@ -1,0 +1,12 @@
+D:\Projects\Reporting\RFPrint\bin\Release\RFPrint.exe
+D:\Projects\Reporting\RFPrint\bin\Release\RFPrint.pdb
+D:\Projects\Reporting\RFPrint\bin\Release\GhostReporting.dll
+D:\Projects\Reporting\RFPrint\bin\Release\GhostReporting.pdb
+D:\Projects\Reporting\RFPrint\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Reporting\RFPrint\obj\x86\Release\RFPrint.ProjectInstaller.resources
+D:\Projects\Reporting\RFPrint\obj\x86\Release\RFPrint.RFPrintService.resources
+D:\Projects\Reporting\RFPrint\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Reporting\RFPrint\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Reporting\RFPrint\obj\x86\Release\RFPrint.exe
+D:\Projects\Reporting\RFPrint\obj\x86\Release\RFPrint.pdb
+D:\Projects\Reporting\RFPrint\bin\Release\RFPrint.exe.config

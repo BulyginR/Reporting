@@ -1,0 +1,9 @@
+D:\Projects\Reporting\CitrixTestApp\bin\Release\CitrixTestApp.exe
+D:\Projects\Reporting\CitrixTestApp\bin\Release\CitrixTestApp.pdb
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\CitrixTestApp.Form1.resources
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\CitrixTestApp.Properties.Resources.resources
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\CitrixTestApp.exe
+D:\Projects\Reporting\CitrixTestApp\obj\x86\Release\CitrixTestApp.pdb

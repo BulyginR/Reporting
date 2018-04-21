@@ -1,0 +1,15 @@
+D:\Projects\Reporting\AddPrinters\bin\Debug\AddPrinters.exe.config
+D:\Projects\Reporting\AddPrinters\bin\Debug\AddPrinters.exe
+D:\Projects\Reporting\AddPrinters\bin\Debug\AddPrinters.pdb
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\InstallPrinters.AddPrinters.resources
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\InstallPrinters.Properties.Resources.resources
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\AddPrinters.exe
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\AddPrinters.pdb
+D:\Projects\Reporting\AddPrinters\bin\Debug\ExcelPackage.dll
+D:\Projects\Reporting\AddPrinters\bin\Debug\ExcelPackage.pdb
+D:\Projects\Reporting\AddPrinters\obj\x86\Debug\InstallPrinters.PrintersInSystem.resources

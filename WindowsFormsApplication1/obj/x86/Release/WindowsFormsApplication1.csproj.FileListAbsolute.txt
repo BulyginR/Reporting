@@ -1,0 +1,11 @@
+D:\Projects\Reporting\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Projects\Reporting\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Projects\Reporting\WindowsFormsApplication1\bin\Release\GhostReporting.dll
+D:\Projects\Reporting\WindowsFormsApplication1\bin\Release\GhostReporting.pdb
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+D:\Projects\Reporting\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

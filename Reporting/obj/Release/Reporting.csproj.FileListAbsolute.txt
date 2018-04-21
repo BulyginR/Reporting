@@ -1,0 +1,17 @@
+D:\Projects\Reporting\Reporting\bin\Release\GhostReporting.dll
+D:\Projects\Reporting\Reporting\bin\Release\GhostReporting.pdb
+D:\Projects\Reporting\Reporting\bin\Release\GhostReporting.tlb
+D:\Projects\Reporting\Reporting\obj\Release\GhostReporting.dll
+D:\Projects\Reporting\Reporting\obj\Release\GhostReporting.pdb
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmDebugLoger.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmForcedCopy.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmPrintoutDialog.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmReportBuilder.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmReportItemProperties.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmReportsManager.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmReportsPreview.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmShowMessage.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.frmWaiting.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.Properties.Resources.resources
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.csprojResolveAssemblyReference.cache
+D:\Projects\Reporting\Reporting\obj\Release\Reporting.csproj.GenerateResource.Cache

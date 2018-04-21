@@ -1,0 +1,5 @@
+I am finding that IEAK, Group Policy, and the NT policies do not cover this setting at all. Not only that, but it's not a true/false DWORD value but a bitmask. 
+The setting is at HKCU\Software\Microsoft\Windows\CurrentVersion\WinTrust\Trust Providers\Software Publishing\State. 
+For IE5 it seems that 22a00 turns it off and 22800 turns it on. 
+I have confirmed that it is different in IE6 (23e00 is off, 23c00 is on). Without being confident on how this value should be set on different platforms, etc. I don't feel comfortable even hacking the reg key to enforce it.
+So, has anyone come across this and come up with a decent solution?

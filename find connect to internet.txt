@@ -1,0 +1,12 @@
+﻿Microsoft Windows [Version 6.1.7601]
+(c) Корпорация Майкрософт (Microsoft Corp.), 2009. Все права защищены.
+
+C:\Users\bulygin.r>nslookup 23.3.90.178
+╤хЁтхЁ:  sdc01.united-europe.ru
+Address:  172.16.0.2
+
+╚ь :     a23-3-90-178.deploy.static.akamaitechnologies.com
+Address:  23.3.90.178
+
+
+telnet a23-3-90-178.deploy.static.akamaitechnologies.com 80

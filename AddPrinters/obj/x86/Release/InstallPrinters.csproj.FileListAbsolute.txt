@@ -1,0 +1,12 @@
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\InstallPrinters.InstallPrinters.resources
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\InstallPrinters.Properties.Resources.resources
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Reporting\InstallPrinters\bin\Release\AddPrinters.exe.config
+D:\Projects\Reporting\InstallPrinters\bin\Release\AddPrinters.exe
+D:\Projects\Reporting\InstallPrinters\bin\Release\AddPrinters.pdb
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\AddPrinters.exe
+D:\Projects\Reporting\InstallPrinters\obj\x86\Release\AddPrinters.pdb

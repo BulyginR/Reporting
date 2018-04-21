@@ -1,0 +1,22 @@
+Private Sub CommandButton1_Click()
+TestNewTabInIE
+
+End Sub
+Sub TestNewTabInIE()
+' modified from code originally found at:
+'http://www.ozgrid.com/forum/showthread.php?t=174692
+Dim IE As Object
+
+Set IE = CreateObject("InternetExplorer.Application")
+
+With IE
+    .Visible = True
+    While .ReadyState <> 4 'READYSTATE_COMPLETE
+        DoEvents
+    Wend
+    '# Navigate to one URL
+    .Navigate "http://google.com"
+    '# Navigate to another URL, in a new tab.
+    .Navigate "Http://yahoo.com", CLng(2048)
+End With
+End Sub

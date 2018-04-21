@@ -1,0 +1,18 @@
+﻿Installing assembly 'D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.InstallLog
+   assemblypath = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe
+Rolling back assembly 'D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.InstallLog
+   assemblypath = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe
+Uninstalling assembly 'D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.InstallLog
+   assemblypath = D:\Projects\Reporting\RFPrint\bin\Debug\RFPrint.exe
+Removing EventLog source RFPrintService.
+Service RFPrintService is being removed from the system...
+Service RFPrintService was successfully removed from the system.

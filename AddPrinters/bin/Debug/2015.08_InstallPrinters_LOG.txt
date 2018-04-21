@@ -1,0 +1,10 @@
+[2015.08.04 13:51:34.1221]: printer 'ZT230S' deleted
+[2015.08.04 14:33:44.6631]: Printer 'WH1_600-07' already exist in system
+[2015.08.04 14:33:44.8161]: Printer 'WH1_ZT230' already exist in system
+[2015.08.04 14:33:44.9221]: Printer 'WH3_HPM602-04' already exist in system
+[2015.08.04 14:34:03.7271]: Printer 'HPM400-01' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52'
+[2015.08.04 14:34:13.2411]: Printer 'HPM400-02' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_1'
+[2015.08.04 14:34:21.6241]: Printer 'HPM400-03' with driver 'HP LaserJet 400 M401 PCL 6', ip = '172.16.250.52' installed on port 'IP_172.16.250.52_2'
+[2015.08.04 14:34:41.1791]: printer 'HPM400-01' deleted
+[2015.08.04 14:34:41.8741]: printer 'HPM400-02' deleted
+[2015.08.04 14:34:42.5651]: printer 'HPM400-03' deleted
